@@ -1,0 +1,13 @@
+{
+  "name": "refills",
+  "homepage": "https://github.com/thoughtbot/refills",
+  "_release": "367f61e48a",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "367f61e48a85805f5be7157e4923f32d895b3f0e"
+  },
+  "_source": "https://github.com/thoughtbot/refills.git",
+  "_target": "master",
+  "_originalSource": "https://github.com/thoughtbot/refills.git"
+}
