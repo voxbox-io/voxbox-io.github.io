@@ -86,6 +86,21 @@
 <script>
   $(document)
     .ready(function() {
+    		
+// Wont re-appear unless cleared
+$('.cookie.nag')
+  .nag('show')
+;
+// Automatically shows on init if cookie isnt set
+$('.cookie.nag')
+  .nag({
+    key      : 'accepts-cookies',
+    value    : true
+  })
+;
+
+
+
       // fix menu when passed
       $('.masthead')
         .visibility({
@@ -104,6 +119,8 @@
       ;
     })
   ;
+  
+  
   </script>   
 
   <body>
