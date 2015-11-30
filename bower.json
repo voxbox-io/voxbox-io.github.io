@@ -19,6 +19,7 @@
     "bitters": "https://github.com/thoughtbot/bitters.git#master",
     "jquery": "~2.1.4",
     "semantic": "https://github.com/Semantic-Org/Semantic-UI.git#master",
-    "refills": "https://github.com/thoughtbot/refills.git#master"    
+    "refills": "https://github.com/thoughtbot/refills.git#master",
+    "js-cookie": "~2.0.4"
   }
 }
