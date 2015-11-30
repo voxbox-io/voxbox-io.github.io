@@ -10,7 +10,7 @@ permalink: /company/
     <a class="toc item">
       <i class="voxbox sidebar icon"></i>
     </a>
-    <a class=" item" href="/home">Home</a>
+    <a class=" item" href="/">Home</a>
     <a class="item" href="/work">Work</a>
     <a class="active item" href="/company">Company</a>
     <a class="item" href="/careers">Careers</a>   
@@ -43,7 +43,9 @@ permalink: /company/
 
 <div class="ui vertical stripe segment"> 
 <div class="ui text container"> 
-<div class="ui three stackable link cards">
+  <h3 class="ui header">We are who we are</h3>
+  <p>That's right.</p>
+<div class="ui two stackable link cards">
   <div class="card">
     <div class="image">
       <img src="/img/avatar/large/matthew.png">
@@ -90,27 +92,36 @@ permalink: /company/
       </span>
     </div>
   </div>
-  <div class="card">
-    <div class="image">
-      <img src="/img/avatar/large/elyse.png">
-    </div>
+
+</div>
+  </div>
+
+
+<div class="ui text container">
+  <div class="ui horizontal divider">
+    Associates
+  </div> 
+
+<div class="ui horizontal list">
+  <div class="item">
+    <img class="ui mini circular image" src="/img/avatar/small/molly.png">
     <div class="content">
-      <div class="header">Elyse</div>
-      <div class="meta">
-        <a>Coworker</a>
-      </div>
-      <div class="description">
-        Elyse is a copywriter working in New York.
-      </div>
+      <div class="ui sub header">Molly</div>
+      Coordinator
     </div>
-    <div class="extra content">
-      <span class="right floated">
-        Joined in 2014
-      </span>
-      <span>
-        <i class="user icon"></i>
-        151 Friends
-      </span>
+  </div>
+  <div class="item">
+    <img class="ui mini circular image" src="/img/avatar/small/elyse.png">
+    <div class="content">
+      <div class="ui sub header">Elyse</div>
+      Developer
+    </div>
+  </div>
+  <div class="item">
+    <img src="/img/avatar/small/eve.png" class="ui mini circular image">
+    <div class="content">
+      <div class="ui sub header">Eve</div>
+      Project Manager
     </div>
   </div>
 </div>

@@ -5,10 +5,10 @@ permalink: /home/
 ---
 
 
-<div class="voxbox ui vertical masthead center aligned segment">                                  
+<div class="voxbox ui vertical masthead center aligned segment inverted">                                  
 <div class="ui container">        
 
-  <div class="ui large secondary pointing menu">
+  <div class="ui large secondary pointing menu inverted">
     <a class="toc item">
       <i class="voxbox sidebar icon"></i>
     </a>
@@ -27,12 +27,26 @@ permalink: /home/
 
 
 
-  <div class="ui text container">
-    <h1 class="ui header">
+  <div class="ui text inverted container">
+<div class="sceneWrap">
+  <div class="jet-pack">
+    <div class="jet-body">
+      
+      <span class="jet-wing-top-circle"></span>
+    </div>
+    <div class="smoke">
+      <span class="smoke-bubble sb-1"></span>
+      <span class="needle"></span>
+      <span class="flag"></span>
+    </div>
+    
+  </div>
+</div>  
+    <h1 class="ui inverted header">
       We develop software and apps for telcos 
     </h1>
     <h2>At rocket speed and reliability.</h2>
-    <!--<div class="ui huge primary button">Get Started <i class="right arrow icon"></i></div>-->
+    <a class="ui huge grey button" href="/work">More<i class="right arrow icon"></i></a>
     <br/>
     <br/>
 <!--    

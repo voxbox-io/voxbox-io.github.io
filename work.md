@@ -10,7 +10,7 @@ permalink: /work/
     <a class="toc item">
       <i class="voxbox sidebar icon"></i>
     </a>
-    <a class=" item" href="/home">Home</a>
+    <a class=" item" href="/">Home</a>
     <a class="active item" href="/work">Work</a>
     <a class="item" href="/company">Company</a>
     <a class="item" href="/careers">Careers</a>   
