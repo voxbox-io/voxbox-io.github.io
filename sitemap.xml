@@ -3,55 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://matteolc.github.io/post/transfer-to-airtime-api-rails-5-gem/</loc>
+    <loc>https://voxbox-io.github.io/post/transfer-to-airtime-api-rails-5-gem/</loc>
     <lastmod>2017-09-04T12:35:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://matteolc.github.io/</loc>
+    <loc>https://voxbox-io.github.io/</loc>
     <lastmod>2017-09-04T12:35:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://matteolc.github.io/page/about/</loc>
+    <loc>https://voxbox-io.github.io/page/about/</loc>
   </url>
   
   <url>
-    <loc>https://matteolc.github.io/tags/api/</loc>
-    <lastmod>2017-09-04T12:35:39+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://matteolc.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://matteolc.github.io/tags/gem/</loc>
+    <loc>https://voxbox-io.github.io/tags/api/</loc>
     <lastmod>2017-09-04T12:35:39+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://matteolc.github.io/page/</loc>
+    <loc>https://voxbox-io.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://matteolc.github.io/post/</loc>
+    <loc>https://voxbox-io.github.io/tags/gem/</loc>
     <lastmod>2017-09-04T12:35:39+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://matteolc.github.io/tags/rails/</loc>
+    <loc>https://voxbox-io.github.io/page/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://voxbox-io.github.io/post/</loc>
     <lastmod>2017-09-04T12:35:39+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://matteolc.github.io/tags/</loc>
+    <loc>https://voxbox-io.github.io/tags/rails/</loc>
+    <lastmod>2017-09-04T12:35:39+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://voxbox-io.github.io/tags/</loc>
     <lastmod>2017-09-04T12:35:39+02:00</lastmod>
     <priority>0</priority>
   </url>

@@ -16,29 +16,29 @@ The Airtime API however does not respond according to the JSON API specification
 The t2_airtime gem attempts to fix that, and also includes Airtime method helpers you can use to roll your own Top-Up solution.">
   <meta name="twitter:description" content="TransferTo helps businesses offer airtime top-ups, goods and services, and mobile money around the world in real time. The TransferTo Airtime Mobile Top-up product allows the transfer of small values …">
   <meta name="author" content="Matteo La Cognata"/>
-  <link href='https://matteolc.github.io/img/favicon.ico' rel='icon' type='image/x-icon'/>
-  <meta property="og:image" content="https://matteolc.github.io/img/voxbox.png" />
-  <meta name="twitter:image" content="https://matteolc.github.io/img/voxbox.png" />
+  <link href='https://voxbox-io.github.io/img/favicon.ico' rel='icon' type='image/x-icon'/>
+  <meta property="og:image" content="https://voxbox-io.github.io/img/voxbox.png" />
+  <meta name="twitter:image" content="https://voxbox-io.github.io/img/voxbox.png" />
   <meta name="twitter:card" content="summary" />
-  <meta property="og:url" content="https://matteolc.github.io/post/transfer-to-airtime-api-rails-5-gem/" />
+  <meta property="og:url" content="https://voxbox-io.github.io/post/transfer-to-airtime-api-rails-5-gem/" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Voxbox" />
 
   <meta name="generator" content="Hugo 0.26" />
-  <link rel="canonical" href="https://matteolc.github.io/post/transfer-to-airtime-api-rails-5-gem/" />
-  <link rel="alternate" href="https://matteolc.github.io/index.xml" type="application/rss+xml" title="Voxbox">
+  <link rel="canonical" href="https://voxbox-io.github.io/post/transfer-to-airtime-api-rails-5-gem/" />
+  <link rel="alternate" href="https://voxbox-io.github.io/index.xml" type="application/rss+xml" title="Voxbox">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://matteolc.github.io/css/main.css" />
+  <link rel="stylesheet" href="https://voxbox-io.github.io/css/main.css" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
-  <link rel="stylesheet" href="https://matteolc.github.io/css/pygment_highlights.css" />
-  <link rel="stylesheet" href="https://matteolc.github.io/css/highlight.min.css" />
+  <link rel="stylesheet" href="https://voxbox-io.github.io/css/pygment_highlights.css" />
+  <link rel="stylesheet" href="https://voxbox-io.github.io/css/highlight.min.css" />
 
 <link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet">
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.6.0/styles/monokai.min.css" />
-<link rel="stylesheet" href="https://matteolc.github.io/css/overrides.css" />
+<link rel="stylesheet" href="https://voxbox-io.github.io/css/overrides.css" />
 
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
@@ -102,7 +102,7 @@ The t2_airtime gem attempts to fix that, and also includes Airtime method helper
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="https://matteolc.github.io">Voxbox</a>
+      <a class="navbar-brand" href="https://voxbox-io.github.io">Voxbox</a>
     </div>
 
     <div class="collapse navbar-collapse" id="main-navbar">
@@ -136,8 +136,8 @@ The t2_airtime gem attempts to fix that, and also includes Airtime method helper
     <div class="avatar-container">
       <div class="avatar-img-border" style="box-shadow: none">
         
-          <a title="Voxbox" href="https://matteolc.github.io">
-            <img class="avatar-img" src="https://matteolc.github.io/img/voxbox.png" alt="Voxbox" />
+          <a title="Voxbox" href="https://voxbox-io.github.io">
+            <img class="avatar-img" src="https://voxbox-io.github.io/img/voxbox.png" alt="Voxbox" />
           </a>
         
       </div>
@@ -736,7 +736,7 @@ To format the response as JSON-API you can call <code>T2Airtime::Transaction.ser
               </li>
           
           <li>
-            <a href="https://matteolc.github.io/index.xml" title="RSS">
+            <a href="https://voxbox-io.github.io/index.xml" title="RSS">
               <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
@@ -757,7 +757,7 @@ To format the response as JSON-API you can call <code>T2Airtime::Transaction.ser
 
           
             &nbsp;&bull;&nbsp;
-            <a href="https://matteolc.github.io">Voxbox</a>
+            <a href="https://voxbox-io.github.io">Voxbox</a>
           
         </p>
         
@@ -774,13 +774,13 @@ To format the response as JSON-API you can call <code>T2Airtime::Transaction.ser
 <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/contrib/auto-render.min.js" integrity="sha384-dq1/gEHSxPZQ7DdrM82ID4YVol9BYyU7GbWlIwnwyPzotpoc57wDw/guX8EaYGPx" crossorigin="anonymous"></script>
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-<script src="https://matteolc.github.io/js/main.js"></script>
-<script src="https://matteolc.github.io/js/highlight.min.js"></script>
+<script src="https://voxbox-io.github.io/js/main.js"></script>
+<script src="https://voxbox-io.github.io/js/highlight.min.js"></script>
 <script> hljs.initHighlightingOnLoad(); </script>
 <script> renderMathInElement(document.body); </script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous"></script>
-<script src="https://matteolc.github.io/js/load-photoswipe.js"></script>
+<script src="https://voxbox-io.github.io/js/load-photoswipe.js"></script>
 
 
 
