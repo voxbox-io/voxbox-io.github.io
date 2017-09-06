@@ -1,0 +1,90 @@
+body {
+    background: #5b2480 !important;
+    font-family: 'Muli', sans-serif;
+}
+
+footer .copyright {
+    font-family: 'Muli', sans-serif;
+}
+
+footer {
+    background: #5b2480 !important;
+    border-top: 1px #5b2480 solid;
+}
+
+.navbar-custom {
+    background: #5b2480;
+    border-bottom: 1px solid #5b2480;
+}
+
+.intro-header .page-heading {
+    color: #EEEEEE;
+}
+
+.well,
+a.list-group-item, 
+a.list-group-item, 
+button.list-group-item, 
+button.list-group-item {
+    background-color: #420B67 !important;
+}
+
+
+pre {
+    color: #333;
+    background-color: #420B67;
+    border: 1px solid #ccc;
+}
+
+.hljs {
+    background: #420B67;
+}
+
+.navbar-custom .navbar-brand, .navbar-custom .nav li a {
+    color: #FAFAFA;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #FAFAFA
+}
+
+ul, p, .post-entry {    
+    color: #F4BDFF
+}
+
+footer a {
+    color: #420B67;
+}
+
+.post-preview .post-meta, .post-heading .post-meta {
+    color: #A871CD;
+}
+
+.post-preview .post-meta a, .post-heading .post-meta a {
+    color: #A871CD;
+}
+
+.post-preview a {
+    color: #FAFAFA;
+}
+
+
+.post-preview .post-read-more,
+.post-preview .post-entry {
+    padding: 20px 0;
+}
+
+.badge {
+    background-color: #28004D;    
+    padding: 6px 10px;
+}
+
+code {
+    color: #FAFAFA;
+    background-color: #28004D;
+}
+
+footer .list-inline>li {    
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+}

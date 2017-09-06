@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Voxbox</title>
+    <link>https://matteolc.github.io/categories/</link>
+    <description>Recent content in Categories on Voxbox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>talk@voxbox.io (Matteo La Cognata)</managingEditor>
+    <webMaster>talk@voxbox.io (Matteo La Cognata)</webMaster>
+    
+	<atom:link href="https://matteolc.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

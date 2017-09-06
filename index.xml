@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Voxbox</title>
+    <link>https://matteolc.github.io/</link>
+    <description>Recent content on Voxbox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>talk@voxbox.io (Matteo La Cognata)</managingEditor>
+    <webMaster>talk@voxbox.io (Matteo La Cognata)</webMaster>
+    <lastBuildDate>Mon, 04 Sep 2017 12:35:39 +0200</lastBuildDate>
+    
+	<atom:link href="https://matteolc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TransferTo Airtime Api Rails 5 Gem</title>
+      <link>https://matteolc.github.io/post/transfer-to-airtime-api-rails-5-gem/</link>
+      <pubDate>Mon, 04 Sep 2017 12:35:39 +0200</pubDate>
+      <author>talk@voxbox.io (Matteo La Cognata)</author>
+      <guid>https://matteolc.github.io/post/transfer-to-airtime-api-rails-5-gem/</guid>
+      <description>TransferTo helps businesses offer airtime top-ups, goods and services, and mobile money around the world in real time. The TransferTo Airtime Mobile Top-up product allows the transfer of small values to over 4.5 billion mobile phones worldwide.
+The Airtime API however does not respond according to the JSON API specification.
+The t2_airtime gem attempts to fix that, and also includes Airtime method helpers you can use to roll your own Top-Up solution.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://matteolc.github.io/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>talk@voxbox.io (Matteo La Cognata)</author>
+      <guid>https://matteolc.github.io/page/about/</guid>
+      <description>My name is Matteo La Cognata. I am a software engineer, a pizza lover and a guitar strummer. I am also a dad, and I love my family.
+what is Voxbox Voxbox is a collection of open-source and propietary components I developed to orchestrate telephony services on a single or clustered group of servers, with particular attention to the needs of the carrier wholesale market. Voxbox is built for Debian servers with Freeswitch, PostgreSQL and Ruby.</description>
+    </item>
+    
+  </channel>
+</rss>
