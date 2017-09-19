@@ -5,8 +5,6 @@
     <link>https://voxbox-io.github.io/page/</link>
     <description>Recent content in Pages on Voxbox</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>talk@voxbox.io (Matteo La Cognata)</managingEditor>
-    <webMaster>talk@voxbox.io (Matteo La Cognata)</webMaster>
     
 	<atom:link href="https://voxbox-io.github.io/page/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +13,7 @@
       <title>About me</title>
       <link>https://voxbox-io.github.io/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>talk@voxbox.io (Matteo La Cognata)</author>
+      
       <guid>https://voxbox-io.github.io/page/about/</guid>
       <description>My name is Matteo La Cognata. I am a Telecommunication Engineer with a passion for software, nature, music &amp;amp; cooking. I am also a dad, and I love my family and my cat.
 what is Voxbox Voxbox is a collection of open-source and propietary components I developed to orchestrate telephony services on a single or clustered group of servers, tailored to the carrier wholesale market. Voxbox is built for Debian servers with Freeswitch, PostgreSQL and Ruby.</description>

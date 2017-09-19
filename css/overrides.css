@@ -88,3 +88,32 @@ footer .list-inline>li {
     padding-right: 0 !important;
     padding-left: 0 !important;
 }
+
+img {
+    display: inline-block !important;
+}
+
+.logos img {
+    display: inline-block !important;
+    border-radius: 6px;
+}
+
+.btn-custom {
+    color: #fff;
+    background-color: #6A1B9A;
+    border-color: #6A1B9A;
+}
+
+.btn-custom {
+    color: #fff;
+    background-color: #6A1B9A;
+    border-color: #6A1B9A;
+}
+
+.btn-custom.active, .btn-custom:active,
+.btn-custom.focus, .btn-custom:focus,
+.btn-custom:hover {
+    color: #fff;
+    background-color: #7B1FA2;
+    border-color: #7B1FA2;
+}

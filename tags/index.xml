@@ -5,8 +5,6 @@
     <link>https://voxbox-io.github.io/tags/</link>
     <description>Recent content in Tags on Voxbox</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>talk@voxbox.io (Matteo La Cognata)</managingEditor>
-    <webMaster>talk@voxbox.io (Matteo La Cognata)</webMaster>
     <lastBuildDate>Mon, 04 Sep 2017 12:35:39 +0200</lastBuildDate>
     
 	<atom:link href="https://voxbox-io.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -16,7 +14,7 @@
       <title>Api</title>
       <link>https://voxbox-io.github.io/tags/api/</link>
       <pubDate>Mon, 04 Sep 2017 12:35:39 +0200</pubDate>
-      <author>talk@voxbox.io (Matteo La Cognata)</author>
+      
       <guid>https://voxbox-io.github.io/tags/api/</guid>
       <description></description>
     </item>
@@ -25,7 +23,7 @@
       <title>Gem</title>
       <link>https://voxbox-io.github.io/tags/gem/</link>
       <pubDate>Mon, 04 Sep 2017 12:35:39 +0200</pubDate>
-      <author>talk@voxbox.io (Matteo La Cognata)</author>
+      
       <guid>https://voxbox-io.github.io/tags/gem/</guid>
       <description></description>
     </item>
@@ -34,7 +32,7 @@
       <title>Rails</title>
       <link>https://voxbox-io.github.io/tags/rails/</link>
       <pubDate>Mon, 04 Sep 2017 12:35:39 +0200</pubDate>
-      <author>talk@voxbox.io (Matteo La Cognata)</author>
+      
       <guid>https://voxbox-io.github.io/tags/rails/</guid>
       <description></description>
     </item>

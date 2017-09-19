@@ -5,22 +5,19 @@
     <link>https://voxbox-io.github.io/tags/api/</link>
     <description>Recent content in Api on Voxbox</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>talk@voxbox.io (Matteo La Cognata)</managingEditor>
-    <webMaster>talk@voxbox.io (Matteo La Cognata)</webMaster>
     <lastBuildDate>Mon, 04 Sep 2017 12:35:39 +0200</lastBuildDate>
     
 	<atom:link href="https://voxbox-io.github.io/tags/api/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>TransferTo Airtime Api Rails 5 Gem</title>
-      <link>https://voxbox-io.github.io/post/transfer-to-airtime-api-rails-5-gem/</link>
+      <title>Transfer-To Airtime API</title>
+      <link>https://voxbox-io.github.io/post/transfer-to-airtime-api/</link>
       <pubDate>Mon, 04 Sep 2017 12:35:39 +0200</pubDate>
-      <author>talk@voxbox.io (Matteo La Cognata)</author>
-      <guid>https://voxbox-io.github.io/post/transfer-to-airtime-api-rails-5-gem/</guid>
-      <description>TransferTo helps businesses offer airtime top-ups, goods and services, and mobile money around the world in real time. The TransferTo Airtime Mobile Top-up product allows the transfer of small values to over 4.5 billion mobile phones worldwide.
-The Airtime API however does not respond according to the JSON API specification.
-The t2_airtime gem attempts to fix that, and also includes Airtime method helpers you can use to roll your own Top-Up solution.</description>
+      
+      <guid>https://voxbox-io.github.io/post/transfer-to-airtime-api/</guid>
+      <description>T2-Airtime is a Ruby gem providing a proxy cache and a REST API to TransferTo Airtime service.
+DEMO  DOCS</description>
     </item>
     
   </channel>
